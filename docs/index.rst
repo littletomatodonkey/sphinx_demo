@@ -14,10 +14,4 @@ Welcome to ClsDemo's documentation!
    test_fig.md
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+:math:`2020 PaddlePaddle`
