@@ -13,7 +13,6 @@ Welcome to ClsDemo's documentation!
    test_math.md
    test_fig.md
 
-:math:`Paddle`
 
 Indices and tables
 ==================
