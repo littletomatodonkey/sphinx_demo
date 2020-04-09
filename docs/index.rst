@@ -12,6 +12,7 @@ Welcome to ClsDemo's documentation!
 
    test_math.md
    test_fig.md
+   test_math_v2.md
 
 
 :math:`2020 PaddlePaddle`
